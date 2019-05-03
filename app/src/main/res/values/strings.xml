@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactExampleDB</string>
+    <string name="main_title">Contacts</string>
+    <string name="action_add">Add</string>
+    <string name="action_del">Delete</string>
+    <string name="name">Name</string>
+    <string name="tel">Contact Number</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
